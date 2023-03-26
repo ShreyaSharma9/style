@@ -1,0 +1,156 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
+.container{
+    height: 140vh;
+    width: 90%;
+    background-color: rgb(233, 220, 238);
+    margin: auto;
+    padding: 40px;
+    border-radius: 18px;
+    padding-bottom: 50px;
+}
+.box{
+    height: 130vh;
+    width: 70%px;
+    background-color: white;
+    color: black;
+    margin-left: -10px;
+    
+}
+
+.navbar{
+    display: flex;
+    
+    align-items: center;
+    color: rgb(107, 104, 104);
+    padding: 20px 50px;
+    font-size: 12px;
+
+
+}
+.due-section h3{
+    margin-left: 130px;
+    color: gray;
+    
+}
+.navlist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    width: 45%;
+    margin-left: 80px;
+
+}
+.navlist ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 65%;
+    list-style: none;
+    margin-left: 110px;
+}
+.secondary-links{
+    margin-left: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.secondary-links ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.text-section h1{
+    font-weight: 400;
+    color: #0d0c22;
+}
+#logo{
+    
+    margin-left: 340px;
+}
+.text-section{
+    margin-left: 165px;
+    font-size: 40px;
+    margin-top: -310px;
+    position: absolute;
+    
+}
+#logo1{
+    margin-left: 400px;
+    margin-top: -310px;
+    height: 450px;
+}
+.text-section-one{
+    margin-left: 750px;
+    margin-top: -450px;
+    
+    
+}
+.text-section-one h1{
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-right: 40px;
+    font-size: 20px;
+}
+.text-section-one h4{
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(83, 83, 83);
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.text-section-one p{
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(83, 83, 83);
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+.text-section-one h3{
+    width: 65%;
+    border: 1px solid rgb(194, 189, 189);
+    margin-top: -20px;
+}
+.shop-btn{
+    height: 40px;
+    width: 170px;
+    border: 2px solid gray;
+    color: rgb(62, 49, 75);
+    font-weight: bold;
+    margin-left: 166px;
+    margin-top: 30px;
+}
+
+#logo20{
+    margin-left: 480px;
+    margin-top: 50px;
+}
+#logo22{
+    height: 180px;
+    margin-top: -300px;
+    margin-left: 290px;
+}
+
+#logo21{
+    margin-top: -300px;
+    margin-left: 140px;
+    height: 150px;
+}
+.image5-section{
+    margin-top: -170px;
+    margin-left: 630px;
+    
+}
+.image6-section{
+    margin-left: 770px;
+    margin-top: -135px;
+    
+}
+
